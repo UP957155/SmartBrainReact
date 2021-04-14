@@ -1,0 +1,21 @@
+#myCanvas{
+    position: absolute;
+    
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    cursor: pointer;
+   
+}
+.dev{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    
+    
+}
+.dd{
+    display: flex;
+    justify-content: center;
+}
